@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+
+
+.menu-top{
+    margin-top: 0px;
+    background-color: black;
+}
+.menu-top ul li{
+    display: inline-block;
+    padding-inline-start: 200px;
+    font-size:larger;
+    padding-top: 40px;
+    margin-left: 20px;
+    text-indent: 10px;
+}
+
+.menu-bot{
+    background-color: black;
+}
+.menu-bot ul li{
+    padding-inline-start: 50px;
+    display: inline;
+    font-size:larger;
+    margin-left: 20px;
+}
+.menu-bot ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.below-menu{
+    background-color: #f5f5f5;
+}
+
+.below-menu ul li{
+    padding-inline-start: 20px;
+    display: inline;
+    font-size:10pt;
+    margin-left: 20px;
+}
+.below-menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer{
+    background-color: black;
+}
